@@ -63,7 +63,7 @@ let resumeData = {
       "YearOfLeaving": "2014",
     }
   ],
-  "skillsDescription": "Your skills here",
+  "skillsDescription": "I'm highly skilled with:",
   "skills": [
     {
       "skillname": "ReactJS"
