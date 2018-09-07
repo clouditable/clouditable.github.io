@@ -37,7 +37,7 @@ header {
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
-   overflow: hidden;
+   /*overflow: hidden;*/
 }
 
 /* vertically center banner section */
@@ -52,14 +52,14 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #fff;
+   color: rgb(209, 114, 51);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
@@ -198,7 +198,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #F06000;
    margin-bottom: 12px;
 }
 #about p {
@@ -318,7 +318,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #F06000;
    display: inline-block;
   	height: 42px;
    line-height: 42px;

@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Web Developer",
   "emailid": "edabuluta3@gmail.com",
   "skypeid": "edabuluta3",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, read technical articles or simply play games in my free time.",
   "socialLinks": [
     {
       "name": "facebook",
@@ -32,7 +32,7 @@ let resumeData = {
       "className": "fa fa-github"
     }
   ],
-  "aboutme": "A little info about me",
+  "aboutme": "I enjoy turning complex problems into simple, clean and useful codes.",
   "address": "Ankara, Turkey",
   "website": "edabuluta3@gmail.com",
   "education": [
@@ -86,35 +86,55 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "project1",
-      "description": "mobileapp",
+      "name": "Online Education System Project",
+      "description": "Learn More, Change More!",
       "imgurl": "images/portfolio/phone.jpg"
     },
     {
-      "name": "project2",
-      "description": "mobileapp",
+      "name": "RFID Application Project",
+      "description": "Radio Frequency is the Future!",
       "imgurl": "images/portfolio/project.jpg"
     },
     {
-      "name": "project3",
-      "description": "mobileapp",
+      "name": "Online Car Booking System Project",
+      "description": "The Order in the Crowd!",
       "imgurl": "images/portfolio/project2.png"
     },
     {
-      "name": "project4",
-      "description": "mobileapp",
+      "name": "Web Scraper",
+      "description": "For Fun!",
       "imgurl": "images/portfolio/phone.jpg"
     }
   ],
   "testimonials": [
-    {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+     {
+      "description": "Online Education System Project",
+      "name": "Learn More, Change More!",
+      "imgurl": "images/portfolio/phone.jpg"
     },
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "RFID Application Project",
+      "name": "Radio Frequency is the Future!",
+      "imgurl": "images/portfolio/project.jpg"
+    },
+    {
+      "description": "Online Car Booking System Project",
+      "name": "The Order in the Crowd!",
+      "imgurl": "images/portfolio/project2.png"
+    },
+    {
+      "description": "Web Scraper",
+      "name": "For Fun!",
+      "imgurl": "images/portfolio/phone.jpg"
     }
+    // {
+    //   "description": "This is a sample testimonial",
+    //   "name": "Some technical guy"
+    // },
+    // {
+    //   "description": "This is a sample testimonial",
+    //   "name": "Some technical guy"
+    // }
   ]
 }
 
